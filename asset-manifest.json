@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/zgryshopping/static/js/main.86c28161.chunk.js",
-    "main.js.map": "/zgryshopping/static/js/main.86c28161.chunk.js.map",
-    "runtime-main.js": "/zgryshopping/static/js/runtime-main.02273ab9.js",
-    "runtime-main.js.map": "/zgryshopping/static/js/runtime-main.02273ab9.js.map",
-    "static/js/2.a0b89053.chunk.js": "/zgryshopping/static/js/2.a0b89053.chunk.js",
-    "static/js/2.a0b89053.chunk.js.map": "/zgryshopping/static/js/2.a0b89053.chunk.js.map",
-    "static/js/3.f4cb39e6.chunk.js": "/zgryshopping/static/js/3.f4cb39e6.chunk.js",
-    "static/js/3.f4cb39e6.chunk.js.map": "/zgryshopping/static/js/3.f4cb39e6.chunk.js.map",
+    "main.js": "/zgryshopping/static/js/main.ccb2998f.chunk.js",
+    "main.js.map": "/zgryshopping/static/js/main.ccb2998f.chunk.js.map",
+    "runtime-main.js": "/zgryshopping/static/js/runtime-main.91033d45.js",
+    "runtime-main.js.map": "/zgryshopping/static/js/runtime-main.91033d45.js.map",
+    "static/js/2.b687eafd.chunk.js": "/zgryshopping/static/js/2.b687eafd.chunk.js",
+    "static/js/2.b687eafd.chunk.js.map": "/zgryshopping/static/js/2.b687eafd.chunk.js.map",
+    "static/js/3.f7569d43.chunk.js": "/zgryshopping/static/js/3.f7569d43.chunk.js",
+    "static/js/3.f7569d43.chunk.js.map": "/zgryshopping/static/js/3.f7569d43.chunk.js.map",
     "index.html": "/zgryshopping/index.html",
-    "static/js/2.a0b89053.chunk.js.LICENSE.txt": "/zgryshopping/static/js/2.a0b89053.chunk.js.LICENSE.txt",
+    "static/js/2.b687eafd.chunk.js.LICENSE.txt": "/zgryshopping/static/js/2.b687eafd.chunk.js.LICENSE.txt",
     "static/media/background.5073810f.jpg": "/zgryshopping/static/media/background.5073810f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.02273ab9.js",
-    "static/js/2.a0b89053.chunk.js",
-    "static/js/main.86c28161.chunk.js"
+    "static/js/runtime-main.91033d45.js",
+    "static/js/2.b687eafd.chunk.js",
+    "static/js/main.ccb2998f.chunk.js"
   ]
 }
