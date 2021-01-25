@@ -7,7 +7,7 @@ const Navbar = () => {
             <Nav>
                 <NavLink to='/'>Tshirt</NavLink>
                 <NavIcon>
-                    <p>Menu</p>
+                    <p>Models</p>
                     <Bars />
                 </NavIcon>
             </Nav>
