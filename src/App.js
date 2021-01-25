@@ -4,6 +4,8 @@ import { GlobalStyle } from './globalStyles';
 import Hero from './components/Hero';
 import Products from './components/Products';
 import { productData } from './components/Products/data';
+import Footer from './components/Footer';
+import Feature from './components/Feature';
 
 function App() {
   return (
@@ -11,6 +13,8 @@ function App() {
       <GlobalStyle />
       <Hero />
       <Products heading='Choose Your Clothes' data={productData} />
+      <Feature />
+      <Footer />
     </ Router>
   );
 }
